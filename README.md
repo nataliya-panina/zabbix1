@@ -84,6 +84,7 @@ sudo nano status zabbix_agentd.service
 ```
 ![Подключение](https://github.com/nataliya-panina/zabbix1/blob/main/server%2Bhost.png)
 ![Monitiring](https://github.com/nataliya-panina/zabbix1/blob/main/data.png)
+![Host](https://github.com/nataliya-panina/zabbix1/blob/main/testhost-log.png)
 ![Logs](https://github.com/nataliya-panina/zabbix1/blob/main/logs_srv_host.png)
 ## Задание 3 со звёздочкой*
 
