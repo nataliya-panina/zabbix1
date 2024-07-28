@@ -15,8 +15,8 @@
     Приложите в файл README.md текст использованных команд в GitHub.
 ##Решение
 1. Устанавливаю Postgres
-'sudo apt update'
-'sudo apt postgresql'
+    sudo apt update
+    sudo apt postgresql
 3. Устанавливаю репозиторий Zabbix:
 ![Zabbix](https://www.zabbix.com/download?zabbix=6.0&os_distribution=debian&os_version=11&components=server_frontend_agent&db=pgsql&ws=apache)
 wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_6.0-4+debian11_all.deb
