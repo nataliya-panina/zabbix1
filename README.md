@@ -2,7 +2,7 @@
 ## Задание 1
 
 Установите Zabbix Server с веб-интерфейсом.  
-## Процесс выполнения##
+## Процесс выполнения
 
     Выполняя ДЗ, сверяйтесь с процессом отражённым в записи лекции.
     Установите PostgreSQL. Для установки достаточна та версия, что есть в системном репозитороии Debian 11.
@@ -83,6 +83,8 @@ sudo nano restart zabbix_agentd.service
 sudo nano status zabbix_agentd.service
 ```
 ![Подключение](https://github.com/nataliya-panina/zabbix1/blob/main/server%2Bhost.png)
+![Monitiring](https://github.com/nataliya-panina/zabbix1/blob/main/data.png)
+![Logs](https://github.com/nataliya-panina/zabbix1/blob/main/logs_srv_host.png)
 ## Задание 3 со звёздочкой*
 
 Установите Zabbix Agent на Windows (компьютер) и подключите его к серверу Zabbix.
