@@ -86,6 +86,7 @@ Configuration -> Templates -> Create Template
 ![AddMapElement](https://github.com/nataliya-panina/zabbix1/blob/main/img/AddMapElement.png)
 4. Создание связи между элементами:
 ![CreateLink](https://github.com/nataliya-panina/zabbix1/blob/main/img/CreateLink.png)
+5. При недоступности хоста:
 ![Zadanie 5](https://github.com/nataliya-panina/zabbix1/blob/main/img/zadanie5.png)    
 
 ## Задание 6* со звёздочкой
