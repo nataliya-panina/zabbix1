@@ -13,7 +13,7 @@
 
     Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 ## Решение
-
+Configuration -> Templates -> Create Template
 
 ## Задание 2
 
