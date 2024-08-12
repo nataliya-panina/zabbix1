@@ -64,6 +64,8 @@ Configuration -> Templates -> Create Template
     Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 ## Решение
 
+![Dashboard](https://github.com/nataliya-panina/zabbix1/blob/main/img/Zadanie4.png)
+
 ## Задание 5* со звёздочкой
 
 Создайте карту и расположите на ней два своих хоста.
@@ -117,6 +119,9 @@ Configuration -> Templates -> Create Template
 Требования к результату
 
     Прикрепите в файл README.md скриншот правила обнаружения, а также скриншот страницы Discover, где видны оба хоста.*
+## Решение
+![Discovery](https://github.com/nataliya-panina/zabbix1/blob/main/img/DiscoveryRules.png) 
+![Zadanie 8](https://github.com/nataliya-panina/zabbix1/blob/main/img/zadanie8-1.png) 
 ### Задание 9* со звёздочкой
 
 Доработайте скрипты Vagrant для 2-х агентов, чтобы они были готовы к автообнаружению сервером, а также имели на борту разработанные вами ранее параметры пользователей.
