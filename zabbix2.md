@@ -48,6 +48,7 @@ Configuration -> Templates -> Create Template
 
     Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 ## Решение
+![Zadanie 3](https://github.com/nataliya-panina/zabbix1/blob/main/img/Zadanie3.png)
 
 ## Задание 4
 
