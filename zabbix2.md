@@ -76,10 +76,13 @@ Configuration -> Templates -> Create Template
 
     Прикрепите в файл README.md скриншот карты, где видно, что триггер сработал, с названием «Задание 5»
 ## Решение
-Administration -> General -> Images -> Type=Background -> Create Background  
+    Administration -> General -> Images -> Type=Background -> Create Background  
+    Monitoring -> Maps -> Create map
+    Name, Width, Height, Backgroung image -> ``Add``
     
-## Задание 6* со звёздочкой
+![Zadanie 5](https://github.com/nataliya-panina/zabbix1/blob/main/img/zadanie5.png)    
 
+## Задание 6* со звёздочкой
 Создайте UserParameter на bash и прикрепите его к созданному вами ранее шаблону. Он должен вызывать скрипт, который:
 
     при получении 1 будет возвращать ваши ФИО,
