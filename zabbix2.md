@@ -76,12 +76,12 @@ Configuration -> Templates -> Create Template
 
     Прикрепите в файл README.md скриншот карты, где видно, что триггер сработал, с названием «Задание 5»
 ## Решение
-1. Добавить картинку в библиотеку
+1. Добавить картинку в библиотеку  
     Administration -> General -> Images -> Type=Background -> Create Background
-2. Создание карты:
-    Monitoring -> Maps -> Create map
+2. Создание карты:  
+    Monitoring -> Maps -> Create map  
     Name, Width, Height, Backgroung image -> Add
-3. Добавление хостов:
+3. Добавление хостов:  
     Edit map -> Map element Add/Remove
 ![AddMapElement](https://github.com/nataliya-panina/zabbix1/blob/main/img/AddMapElement.png)
 4. Создание связи между элементами:
