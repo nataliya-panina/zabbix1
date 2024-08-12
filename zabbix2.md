@@ -32,6 +32,8 @@
     Результат данного задания сдавайте вместе с заданием 3
 ## Решение
 
+![Hosts](https://github.com/nataliya-panina/zabbix1/blob/main/img/zadanie2.png)
+
 ## Задание 3
 
 Привяжите созданный шаблон к двум хостам. Также привяжите к обоим хостам шаблон Linux by Zabbix Agent.
