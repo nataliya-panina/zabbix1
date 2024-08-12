@@ -14,7 +14,7 @@
     Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 ## Решение
 Configuration -> Templates -> Create Template
-
+![Template](https://github.com/nataliya-panina/zabbix1/blob/main/img/Zadanie1.png)
 ## Задание 2
 
 Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2.
